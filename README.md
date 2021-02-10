@@ -4,6 +4,8 @@ A mod to let netherite tool / armor renewable and keep nbt (enchantments / name 
 
 Recipe from [LBS_ReNewableCraft_datapack](https://github.com/Sinbing/LBS_ReNewableCraft_datapack) by [Sinbing](https://github.com/Sinbing)
 
+You have to install it on both server and client
+
 ### Recipes
 
 - Netherite Pickaxe  
