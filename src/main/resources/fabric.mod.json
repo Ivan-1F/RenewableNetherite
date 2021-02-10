@@ -1,0 +1,23 @@
+{
+	"schemaVersion": 1,
+	"id": "renewablenetherite",
+	"version": "${version}",
+	"name": "RenewableNetherite",
+	"description": "A mod to add renewable recipe for netherite armor & tool",
+	"authors": [
+		"IvanYF"
+	],
+	"contact": {},
+	"license": "GPL-3.0",
+	"entrypoints": {
+		"main": [
+			"me.ivanyf.renewablenetherite.RenewableNetherite"
+		]
+	},
+	"mixins": [
+	],
+	"depends": {
+		"fabricloader": ">=0.11.1",
+		"minecraft": "1.16.*"
+	}
+}
